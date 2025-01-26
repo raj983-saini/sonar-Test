@@ -18,10 +18,10 @@
 
 	<properties>
 		<java.version>17</java.version>
-
+		<sonar.projectKey>a2zapna</sonar.projectKey>
 		<sonar.organization>a2zapna</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-
+		<sonar.login>87beafae8559e79cd7a329b677e18943945d7309</sonar.login>
 	</properties>
 
 	<dependencies>
