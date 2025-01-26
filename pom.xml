@@ -21,7 +21,7 @@
 		<sonar.projectKey>a2zapna</sonar.projectKey>
 		<sonar.organization>a2zapna</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-
+		<sonar.login>30bc6a71dc7819be9d15106b89c48522f56175f0</sonar.login>
 	</properties>
 
 	<dependencies>
